@@ -1,0 +1,19 @@
+NUTRITIONAL DATA ANALYSIS SUMMARY
+==================================================
+
+Average Macronutrients by Diet Type:
+               Protein(g)    Carbs(g)      Fat(g)
+Diet_type                                        
+dash            69.282275  160.535754  101.150562
+keto           101.266508   57.970575  153.116356
+mediterranean  101.112316  152.905545  101.416138
+paleo           88.674765  129.552127  135.669027
+vegan           56.157030  254.004192  103.299678
+
+Highest Protein Diet Type:
+Diet_type
+keto             101.266508
+mediterranean    101.112316
+paleo             88.674765
+dash              69.282275
+vegan             56.157030
